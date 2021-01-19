@@ -20,7 +20,7 @@ We are always looking to improve the information we provide to our customers and
 6. Children;
 7. Where we may transfer your personal information;
 8. Risks and how we keep your personal information secure;
-9. Changes to this privacy policy; and
+9. Changes to this privacy policy
 10.Further questions and how to make a complaint.
 
 (E) Your rights to object: You have various rights in respect of our use of your personal information, as set out in section 5. Two of the fundamental rights to be aware of are that:
