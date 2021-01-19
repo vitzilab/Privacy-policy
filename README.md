@@ -1,5 +1,5 @@
-# Privacy-policy
-Privacy policy
+# Privacy policy
+
 
 (A) Who we are: We are Vitzi Limited, a publishing company delivering apps for mobile devices. Vitzi Limited is the controller of your personal information, and is responsible for your personal information. All references in this policy to "Vitzi", "our", "us" or "we" refer to Vitzi Limited, or our group companies, as appropriate. All references in this policy to "apps" are to our apps that are available to download on mobile devices from time to time.
 
@@ -117,7 +117,7 @@ We keep your personal information for no longer than necessary for the purposes 
 
 5. Your rights
 
-5.1 You have certain rights in relation to your personal information. If you would like further information in relation to these or would like to exercise any of them, please contact us via email at gammaplay.com@gmail.com at any time. You have the following rights:
+5.1 You have certain rights in relation to your personal information. If you would like further information in relation to these or would like to exercise any of them, please contact us via email at vitzilab@gmail.com at any time. You have the following rights:
 (a) Right of access. You have a right of access to any personal information we hold about you. You can ask us for a copy of your personal information; confirmation as to whether your personal information is being used by us; details about how and why it is being used; and details of the safeguards which are in place if we transfer your information outside of the European Economic Area ("EEA").
 (b) Right to update your information. You have a right to request an update to any of your personal information which is out of date or incorrect.
 (c) Right to delete your information. You have a right to ask us to delete any personal information which we are holding about you in certain specific circumstances. You can ask us for further information on these specific circumstances by contacting us using the details in section 10.
@@ -141,7 +141,7 @@ This right only applies where we use your personal information on the basis of y
 
 6.2 If you are aged below the age of 16 and we learn that we have inadvertently obtained personal information from you from our websites, or from any other source, then we will delete that information as soon as possible.
 
-6.3 Please contact us at gammaplay.com@gmail.com if you are aware that we may have inadvertently collected personal information from a child below the age of 16.
+6.3 Please contact us at vitzilab@gmail.com if you are aware that we may have inadvertently collected personal information from a child below the age of 16.
 
 7. Where we may transfer your personal information
 
@@ -167,7 +167,7 @@ We may update our privacy policy from time to time. Any changes we make to our p
 
 10. Further questions and how to make a complaint
 
-10.1 If you have any queries or complaints about our collection, use or storage of your personal information, or if you wish to exercise any of your rights in relation to your personal information, please contact gammaplay.com@gmail.com. We will investigate and attempt to resolve any such complaint or dispute regarding the use or disclosure of your personal information.
+10.1 If you have any queries or complaints about our collection, use or storage of your personal information, or if you wish to exercise any of your rights in relation to your personal information, please contact vitzilab@gmail.com. We will investigate and attempt to resolve any such complaint or dispute regarding the use or disclosure of your personal information.
 
 10.2 In accordance with Article 77 of the General Data Protection Regulation, you may also make a complaint to the Information Commissioner's Office, or the data protection regulator in the country where you usually live or work, or where an alleged infringement of the General Data Protection Regulation has taken place. Alternatively, you may seek a remedy through the courts if you believe your rights have been breached.
 
@@ -175,4 +175,4 @@ The practices described in this privacy policy statement are current as of 15 Ja
 
  
 
-© 2021 Vitzi. All Rights Reserved
+© 2021 Vitzi. All Rights Reserved. Privacy Policy
